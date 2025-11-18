@@ -1,30 +1,30 @@
-# PREVENCION DE IMPAGOS EN PRESTAMOS BANCARIOS MEDIANTE TECNICAS DE APRENDIZAJE AUTOMATICO
-Este proyecto predice la aptitud de clientes para recibir préstamos bancarios utilizando aprendizaje supervisado. Para ello se realiza el preprocesado de los datos y se emplean modelos como K-NN, Árboles de Decisión, Regresión Logística y SVM, optimizando la precisión y minimizando falsos positivos, clave para reducir el riesgo financiero.
+# PREVENTION OF LOAN DEFAULTS IN BANKING THROUGH MACHINE LEARNING TECHNIQUES
 
-## Autor
+This project predicts clients’ suitability to receive bank loans using supervised learning. The data is preprocessed, and models such as K-NN, Decision Trees, Logistic Regression, and SVM are applied, optimizing accuracy while minimizing false positives—an essential factor for reducing financial risk.
 
-- [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
+## Description
 
-## Descripción
-
-Utilizamos el dataset `Statlog (German Credit Data)` para predecir la aptitud crediticia de los individuos. El dataset incluye variables numéricas, categóricas y ordinales. Implementamos cuatro algoritmos principales:
+We use the `Statlog (German Credit Data)` dataset to predict individuals’ creditworthiness. The dataset includes numerical, categorical, and ordinal variables. We implement four main algorithms:
 
 1. **K-Nearest Neighbors (K-NN)**
-2. **Árboles de Decisión**
-3. **Regresión Logística**
+2. **Decision Trees**
+3. **Logistic Regression**
 4. **Support Vector Machines (SVM)**
 
-El objetivo es optimizar la precisión del modelo, con especial énfasis en reducir el número de falsos positivos.
+The goal is to optimize model accuracy, with a particular emphasis on reducing the number of false positives.
 
 ## Dataset
 
-El dataset contiene información crediticia y financiera de individuos de la economía alemana. Se preprocesaron las variables eliminando redundancias y sesgos. Para más detalles, el dataset está disponible en [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data).
+The dataset contains credit and financial information from individuals in the German economy. Variables were preprocessed by removing redundancies and biases. For more details, the dataset is available in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data).
 
-## Herramientas:
+## Tools
 
 1. **Python**
-2. **Scikit-learn (para el modelado)**
-3. **Pandas y NumPy (para manejo de datos)**
-4. **GridSearchCV y StratifiedKFold (para optimización de hiperparámetros y validación cruzada)**
+2. **Scikit-learn (for modeling)**
+3. **Pandas and NumPy (for data handling)**
+4. **GridSearchCV and StratifiedKFold (for hyperparameter optimization and cross-validation)**
 
+## Author
+
+- [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
 
