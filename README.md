@@ -13,6 +13,13 @@ We use the `Statlog (German Credit Data)` dataset to predict individuals’ cred
 
 The goal is to optimize model accuracy, with a particular emphasis on reducing the number of false positives.
 
+## Components
+
+1. **MemoriaPrediccionImpagosPrestamos.pdf**: Report where the whole process is described, along with the reasoning aplied while training the models and all the results and conclusions obtained.
+2. **PrediccionImpagosPrestamos**: Jupiter Notebook with all the code used, as well as explanations of the process followed.
+
+The report and the code are only available in spanish.
+
 ## Dataset
 
 The dataset contains credit and financial information from individuals in the German economy. Variables were preprocessed by removing redundancies and biases. For more details, the dataset is available in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data).
