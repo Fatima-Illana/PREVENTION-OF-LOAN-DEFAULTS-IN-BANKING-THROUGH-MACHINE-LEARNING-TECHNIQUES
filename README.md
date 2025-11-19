@@ -15,8 +15,16 @@ The goal is to optimize model accuracy, with a particular emphasis on reducing t
 
 ## Components
 
-1. **MemoriaPrediccionImpagosPrestamos.pdf**: Report where the whole process is described, along with the reasoning aplied while training the models and all the results and conclusions obtained.
-2. **PrediccionImpagosPrestamos**: Jupiter Notebook with all the code used, as well as explanations of the process followed.
+```text
+
+💶 PREVENTION OF LOAN DEFAULTS IN BANKING THROUGH MACHINE LEARNING TECHNIQUES
+├── 🧠 PrediccionImpagosPrestamos.ipynb
+│       → Jupiter Notebook with all the code used, as well as explanations of the process followed.
+├── 📄 README.md
+│       → Documentation of the project.
+└── 📄 MemoriaPrediccionImpagosPrestamos.pdf
+        → Full report of the whole process, the reasoning followed and all the results and conclusions obtained.
+```
 
 The report and the code are only available in spanish.
 
