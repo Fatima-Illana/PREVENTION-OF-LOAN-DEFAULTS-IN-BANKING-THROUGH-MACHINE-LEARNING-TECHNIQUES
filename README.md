@@ -18,12 +18,12 @@ The goal is to optimize model accuracy, with a particular emphasis on reducing t
 ```text
 
 💶 PREVENTION OF LOAN DEFAULTS IN BANKING THROUGH MACHINE LEARNING TECHNIQUES
+├── 🟥 MemoriaPrediccionImpagosPrestamos.pdf
+│       → Full report of the whole process, the reasoning followed and all the results and conclusions obtained.
 ├── 🐍 PrediccionImpagosPrestamos.ipynb
 │       → Jupiter Notebook with all the code used, as well as explanations of the process followed.
-├── 📄 README.md
-│       → Documentation of the project.
-└── 🟥 MemoriaPrediccionImpagosPrestamos.pdf
-        → Full report of the whole process, the reasoning followed and all the results and conclusions obtained.
+└── 📄 README.md
+        → Documentation of the project.
 ```
 
 The report and the code are only available in spanish.
